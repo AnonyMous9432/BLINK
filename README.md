@@ -2,9 +2,9 @@
 
 # Install Packages
 
-'''python
+```python
   pip3 install flair
-'''
-'''python
+```
+```python
   pip3 install seqeval
-'''
+```

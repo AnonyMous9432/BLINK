@@ -27,3 +27,8 @@ Run the following code to train the model
 --learning_rate 5e-5\
 --use_crf False
 ```
+# Inference
+Run the following scrpit to test the best model
+```python
+  python3 evaluate.py
+```
